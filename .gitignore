@@ -1,0 +1,4 @@
+# 项目排除路径
+/pattern-01(Iterator)/target/
+/pattern-02(Adapter)/target/
+/pattern-03(TemplateMethod)/target/
