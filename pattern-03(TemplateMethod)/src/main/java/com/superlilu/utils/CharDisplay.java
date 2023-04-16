@@ -3,7 +3,7 @@ package com.superlilu.utils;
 import com.superlilu.dao.AbstractDisplay;
 
 public class CharDisplay extends AbstractDisplay {
-    private char ch;
+    private final char ch;
 
     public CharDisplay(char ch) {
         this.ch = ch;

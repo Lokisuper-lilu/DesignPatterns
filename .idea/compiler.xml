@@ -10,6 +10,7 @@
         <module name="pattern-03(TemplateMethod)" />
         <module name="pattern-04(FactoryMethod)" />
         <module name="pattern-01(Iterator)" />
+        <module name="pattern-05(singleton)" />
       </profile>
     </annotationProcessing>
   </component>

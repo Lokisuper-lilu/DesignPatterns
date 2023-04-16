@@ -13,6 +13,7 @@
         <module>pattern-02(Adapter)</module>
         <module>pattern-03(TemplateMethod)</module>
         <module>pattern-04(FactoryMethod)</module>
+        <module>pattern-05(singleton)</module>
     </modules>
 
     <properties>

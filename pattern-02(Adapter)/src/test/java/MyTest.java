@@ -1,6 +1,6 @@
 import com.superlilu.inheritAdapter.dao.Print;
-import com.superlilu.pojo.Banner;
 import com.superlilu.inheritAdapter.utils.PrintBanner;
+import com.superlilu.pojo.Banner;
 import org.junit.Test;
 
 public class MyTest {

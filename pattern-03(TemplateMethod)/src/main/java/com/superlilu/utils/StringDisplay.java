@@ -3,7 +3,7 @@ package com.superlilu.utils;
 import com.superlilu.dao.AbstractDisplay;
 
 public class StringDisplay extends AbstractDisplay {
-    private String s;
+    private final String s;
 
     public StringDisplay(String s) {
         this.s = s;
